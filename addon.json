@@ -1,0 +1,9 @@
+{
+  "name": "Test Addon",
+  "loader": "java",
+  "loaderOptions": {
+    "serverEntrypoint": "com.blakwurm.uniform.testaddon.TestAddonServer",
+    "clientEntrypoint": "com.blakwurm.uniform.testaddon.TestAddonClient",
+    "jar": "fabric-example-mod-1.0.0.jar"
+  }
+}
